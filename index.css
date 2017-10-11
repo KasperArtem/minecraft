@@ -1,0 +1,290 @@
+.row:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.row {
+	display: inline-block;
+}
+
+* html .row {
+	height: 1%;
+}
+
+.row {
+	display: block;
+}
+
+html, body {
+	 padding: 0;
+	 margin: 0;
+ }
+
+body {
+	font: normal 13px/16px Helvetica, Arial, sans-serif;
+	min-width: 1200px;
+	font-size: 16px;
+}
+
+.resize {
+	margin: 0 auto;
+	width: 1015px;
+}
+
+.messenger {
+	background: #37a14c;
+	min-height: 45px;
+	padding: 0 30px;
+}
+
+.games {
+	padding: 14px;
+	color: white;
+	float: left;
+}
+
+.england,
+.facebook,
+.vk {
+	margin: 8px 10px 10px 0;
+	float: right;
+}
+
+.minecraft {
+	min-height: 99px;
+}
+
+.logo {
+	margin: 10px 38px 0 50px;
+	float: left;
+}
+
+.fone {
+	height: 96px;
+	width: 265px;
+	color: #3a8945;
+}
+
+p.skype a:before {
+	background: url(images/images/) no-repeat center;
+	display: inline-block;
+	margin-right: 8px;
+	height: 19px;
+	width: 22px;
+	content: "";
+
+}
+
+p.skype a {
+	font-style: italic;
+}
+
+.skype {
+	float: left;
+
+}
+
+.fone1 {
+	height: 70px;
+	float: left;
+	width: 90px;
+}
+
+.fone2 {
+	width: 170px;
+	height: 70px;
+	float: right;
+}
+
+.box {
+	margin: -5px 0 0;
+	height: 115px;
+	width: auto;
+}
+
+.big_logo {
+	margin: 26px 0 0 18px;
+}
+
+.logo,
+.fone,
+.box,
+.big_logo {
+	float: left;
+}
+
+.button {
+	background: linear-gradient(to top, #2f8c43, #45bc5c);
+	min-height: 45px;
+
+}
+
+button {
+	box-shadow: rgba(0, 0, 0, 0.19) 0 5px 10px, rgba(0, 0, 0, 0.23) 0 6px 6px;
+	background: rgb(240, 176, 6);
+	text-decoration: none;
+	border-radius: 5px;
+	user-select: none;
+	outline: none;
+	height: 37px;
+	border: 5px;
+	color: #fff;
+	width: 136px;
+}
+
+button:hover {
+	background: rgb(254, 197, 13);
+}
+
+button:active {
+	background: rgb(228, 164, 6);
+}
+
+button:hover {
+	background: rgb(254, 197, 13);
+}
+
+button:active {
+	background: rgb(228, 164, 6);
+}
+
+.navigation li {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	list-style: none;
+	font-size: 14px;
+	float: left;
+
+}
+
+.navigation li a {
+	background: linear-gradient(to top, #2f8c43, #45bc5c);
+	vertical-align: middle;
+	text-decoration: none;
+	display: table-cell;
+	text-align: center;
+	position: relative;
+	list-style: none;
+	margin: auto;
+	width: 192px;
+	height: 45px;
+	outline: 2px;
+	color: #fff;
+
+}
+
+.navigation li a:hover {
+	background: rgb(254, 197, 13);
+	color: #fff;
+}
+
+.navigation li a:active {
+	background: rgb(228, 164, 6);
+}
+
+.content {
+	min-height: 500px;
+	width: 735px;
+	float: right;
+}
+
+.container {
+	width: 1008px
+}
+
+.sidebar {
+	min-height: 500px;
+	margin: 0 30px;
+	width: 202px;
+	float: right;
+}
+
+li a {
+	text-decoration: none;
+	color: red;
+}
+
+li a:hover {
+	color: black;
+}
+
+.sidebar1 li {
+	list-style-type: none;
+	padding: 4px;
+	color: red;
+
+}
+
+.sidebare2 a {
+	text-decoration: none;
+	color: black;
+}
+
+.sidebare2 a:hover {
+	color: #3a8945;
+}
+
+.news {
+	padding: 10px 5px;
+}
+
+.block {
+	margin-bottom: 30px;
+	width: 735px;
+	float: right;
+}
+
+.window_1,
+.window_2,
+.window_3 {
+	margin: 0 6px 20px;
+	min-height: 265px;
+	height: 260px;
+	width: 232px;
+	float: left;
+}
+
+.block1,
+.block2,
+.block3 {
+	background: linear-gradient(to top, #45bc5c, #2f8c43);
+	padding: 10px 5px;
+	width: 222px;
+	height: 91px;
+	color: white;
+}
+
+.block1 strong,
+.block2 strong,
+.block3 strong {
+	color: black;
+}
+
+.footer {
+	background: linear-gradient(to top, #f0b006, #fec50d);
+	height: 96px;
+	clear: both;
+
+}
+
+.footer1 {
+	background: linear-gradient(to top, #2f8c43, #45bb5c);
+	padding: 12px 10px;
+
+}
+
+.footer .resize .fone {
+	color: #000000;
+	float: right;
+}
+
+.footer1 a {
+	padding: 0 20px;
+	clear: both;
+
+}
+div.clear {clear: both}
