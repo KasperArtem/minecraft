@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52b5f327-6733-4612-b187-38df15c2f589" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/color_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/color_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/color_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/color_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/color_5-15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/color_5-18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/color_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/fon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/img_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/img_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/img_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/img_mod_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/img_mod_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/img_mod_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/img_mod_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/logo_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/social_fb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/social_language.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/social_vk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/html.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="58" />
+            <state relative-caret-position="272">
+              <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
               <folding>
                 <element signature="e#998#1004#1" expanded="true" />
               </folding>
@@ -61,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../2017.10/tables/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -103,12 +77,12 @@
         <option value="$PROJECT_DIR$/Style.CSS.css" />
         <option value="$PROJECT_DIR$/н.css" />
         <option value="$PROJECT_DIR$/../../mine/minecraft/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/../../kolesov/html/index.html" />
         <option value="$PROJECT_DIR$/../../kolesov/html/style.css" />
         <option value="$PROJECT_DIR$/../../../2017.10/tables/html/index.html" />
         <option value="$PROJECT_DIR$/../../../2017.10/tables/html/index.css" />
         <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -187,12 +161,12 @@
       <workItem from="1507554498922" duration="3247000" />
       <workItem from="1507568815611" duration="2581000" />
       <workItem from="1507740859644" duration="469000" />
-      <workItem from="1507742428012" duration="2865000" />
+      <workItem from="1507742428012" duration="3422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37901000" />
+    <option name="totallyTimeSpent" value="38458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -592,16 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="58" />
-          <folding>
-            <element signature="e#998#1004#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../2017.10/tables/html/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -624,6 +588,16 @@
           <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="e#998#1004#1" expanded="true" />
           </folding>
         </state>
       </provider>
